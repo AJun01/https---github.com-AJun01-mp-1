@@ -23,7 +23,7 @@ This project is an **Online Resume Website** built using **HTML**, **CSS**, and 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mp-1.git
+   git clone https://github.com/AJun01/mp-1.git
 
 	2.	Navigate to the project directory:
 
@@ -38,11 +38,10 @@ File Structure
 mp-1/
 ├── index.html          # Homepage of the resume
 ├── education.html      # Education section
-├── work-experience.html# Work Experience section
-├── certifications.html  # Certifications section
+├── work.html# Work Experience section
+├── certificate.html  # Certifications section
 ├── skills.html          # Skills section
 ├── projects.html        # Projects section with the JavaScript calculator
-├── credits.html         # Credits section
 ├── style.css            # CSS for styling the website
 ├── script.js            # JavaScript for the calculator functionality
 ├── README.md            # Project documentation
@@ -52,17 +51,6 @@ Technologies Used
 	•	HTML: Structure of the website.
 	•	CSS: For styling and responsiveness (Flexbox).
 	•	JavaScript: For the interactive calculator.
-
-Deployment
-
-The project can be deployed on platforms like GitHub Pages or Vercel.
-	1.	Vercel Deployment:
-	•	Create an account on Vercel.
-	•	Link your GitHub repository to Vercel.
-	•	Deploy the project.
-	2.	GitHub Pages:
-	•	Push the project to your GitHub repository.
-	•	Enable GitHub Pages in the repository settings to host the website.
 
 Contributions
 
